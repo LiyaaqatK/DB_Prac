@@ -1,5 +1,16 @@
+//Group name: “Not found”
+// DB Assignment 1
+//Group Leader: Lesedi Lebopa(4276507)
+//Group members: 
+//Liyaaqat Kamish(4270300), Furrell Meas(4397252), Ryan Henry(4388206),Makhanani Mlambo(4270025), Sphesihle Ngubane(4202730)
+//Main.java
+
+
+
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -29,9 +40,21 @@ public class Main {
 
             //System.out.println(search.HowManyCountryEndInA());
             //System.out.println(search.citiesWithHighestPop());
+            //System.out.println(search.CountriesLargestLandMass());
             //System.out.println(search.HowManyCountriesInd());
             //System.out.println(search.WhichCountriesInd());
-            System.out.println(search.CountriesEndInA());
+            //System.out.println(search.AfricanCountryLE());
+            //System.out.println(search.mostCommonLang());
+            //System.out.println(search.CountriesEndInA());
+
+            WriteToFile("A",search.HowManyCountryEndInA());
+            WriteToFile("B",search.citiesWithHighestPop());
+            WriteToFile("C",search.CountriesLargestLandMass());
+            WriteToFile("D",search.HowManyCountriesInd());
+            WriteToFile("E",search.WhichCountriesInd());
+            WriteToFile("F",search.AfricanCountryLE());
+            WriteToFile("G",search.mostCommonLang());
+            WriteToFile("H",search.CountriesEndInA());
 
         }catch(IOException e){
             System.out.println("Error reading file " + e.getMessage());
@@ -58,6 +81,14 @@ public class Main {
 
         recordList.add(currentField.toString());
         return recordList;
+    }
+    public static void WriteToFile(String question,String contents) throws IOException{
+        try(BufferedWriter bw = new BufferedWriter(new FileWriter("file2.txt", true))){
+            bw.write("Question "+ question+": ");
+            bw.write(contents +"\n");
+        }catch(IOException e ){
+            System.err.println("Error message: "+ e.getMessage() );
+        }
     }
     
 }

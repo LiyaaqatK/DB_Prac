@@ -1,3 +1,12 @@
+//Group name: “Not found”
+// DB Assignment 1
+//Group Leader: Lesedi Lebopa(4276507)
+//Group members: 
+//Liyaaqat Kamish(4270300), Furrell Meas(4397252), Ryan Henry(4388206), Makhanani Mlambo(4270025), Sphesihle Ngubane(4202730)
+//FieldRecord.java
+
+
+
 public class FieldRecord{
     
     private String cityName, countryName, continent, region, government, headOfState, capital,language;

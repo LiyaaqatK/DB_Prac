@@ -1,0 +1,126 @@
+Question A: Number of countries ending in 'a'
+81
+
+Question B: The top 5 cities with the Biggest Populations 
+Mumbai (Bombay) - 10500000
+Seoul - 9981619
+São Paulo - 9968485
+Shanghai - 9696300
+Jakarta - 9604900
+
+Question C: The top 5 cities with the Biggest Land Mass 
+Dimitrovgrad (Russian Federation) - 1.70754E7
+Tšita (Russian Federation) - 1.70754E7
+Elektrostal (Russian Federation) - 1.70754E7
+Severodvinsk (Russian Federation) - 1.70754E7
+Berezniki (Russian Federation) - 1.70754E7
+
+Question D: How many countries gained independence between the years 1960 and 1980 (inclusive)
+69
+
+Question E: Which countries gained independence between the years 1830 and 1850 (inclusive)?
+Greece: 1830
+Liberia: 1847
+Nicaragua: 1838
+Belgium: 1830
+El Salvador: 1841
+Dominican Republic: 1844
+Honduras: 1838
+
+Question F: The top 5 African Countries with the Highest Life Expectancy 
+Saint Helena - 76.8
+Libyan Arab Jamahiriya - 75.5
+Tunisia - 73.7
+Réunion - 72.7
+Mauritius - 71.0
+
+Question G: The top 5 Most Commonly Spoken Languages 
+Marathi - 2064832320
+Asami - 2063482320
+Dutch - 2062866000
+Kannada - 2061358320
+Malajalam - 2061358320
+
+Question H: List the country names that end with the letter ‘a’, without any repetitions.
+Aruba
+Angola
+Anguilla
+Albania
+Andorra
+Argentina
+Armenia
+American Samoa
+Antigua and Barbuda
+Australia
+Austria
+Bulgaria
+Bosnia and Herzegovina
+Bermuda
+Bolivia
+Botswana
+Canada
+China
+Colombia
+Costa Rica
+Cuba
+Dominica
+Algeria
+Eritrea
+Western Sahara
+Estonia
+Ethiopia
+Georgia
+Ghana
+Guinea
+Gambia
+Equatorial Guinea
+Grenada
+Guatemala
+French Guiana
+Guyana
+Croatia
+Indonesia
+India
+Jamaica
+Kenya
+Cambodia
+South Korea
+Liberia
+Libyan Arab Jamahiriya
+Saint Lucia
+Sri Lanka
+Lithuania
+Latvia
+Moldova
+Macedonia
+Malta
+Mongolia
+Mauritania
+Malaysia
+Namibia
+New Caledonia
+Nigeria
+Nicaragua
+Panama
+Papua New Guinea
+North Korea
+French Polynesia
+Romania
+Rwanda
+Saudi Arabia
+Saint Helena
+Somalia
+Slovakia
+Slovenia
+Syria
+Tonga
+Tunisia
+Tanzania
+Uganda
+Venezuela
+Wallis and Futuna
+Samoa
+Yugoslavia
+South Africa
+Zambia
+
